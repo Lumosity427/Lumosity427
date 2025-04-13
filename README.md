@@ -9,8 +9,8 @@
 
 - 🧠 Also known as **Dopa**
 - 🎮 I create games, mods, and tools for fun (and sometimes chaos)
-- 🔧 Currently working on: **Galaxy!**, **FNAF HTML ports**, and **Roblox scripts**
-- 📀 I love working with **Clickteam Fusion**, **Roblox Lua**, **Web Tech (HTML/CSS/JS)**, and more
+- 🔧 Currently working on: **Galaxy!**, **Universal**, and **DOPA!**
+- 📀 I love working with **inspector tool**, **Lua**, **Web Tech (HTML/CSS/JS)**, and more
 - 💭 Always tinkering, always building
 
 ---
@@ -27,9 +27,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🎮 [FNAF Launcher HTML5](https://github.com/Lumosity427/fnaf-launcher) | Port of FNAF games into the browser | HTML, JS, CTFAK |
+| 🎮 [DOPA](https://jade-hotteok-a66b19.netlify.app/) | free games! | HTML, JS, ETC |
 | 🚀 Galaxy! | A web-based creative playground | HTML, CSS, JS |
-| 🧪 Pillar Chase 2 Mods | Custom content for a popular Roblox game | Lua, Roblox Studio |
+| 🧪 Expirements! | You must not know my secret plans... | some know... |
 
 ---
 
@@ -56,7 +56,7 @@
 
 ### ✨ Quote of the Moment
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Remember: every corpse on Mt. Everest was once a motivated person.” – the truth
 
 ---
 
