@@ -56,7 +56,7 @@
 
 ### ✨ Quote of the Moment
 
-> “Remember: every corpse on Mt. Everest was once a motivated person.” – the truth
+> “skibidi skibid” – John G Turkey
 
 ---
 
