@@ -1,13 +1,13 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFD9&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Dopa+(aka+Lumosity427)!;Game+Developer+%7C+Coder+%7C+Creative+Mind;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFD9&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+bronomion+(aka+Lumosity427)!;Game+Developer+%7C+Coder+%7C+Creative+Mind;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🧠 Also known as **Dopa**
+- 🧠 Also known as **bronomion**
 - 🎮 I create games, mods, and tools for fun (and sometimes chaos)
 - 🔧 Currently working on: **Galaxy!**, **Universal**, and **DOPA!**
 - 📀 I love working with **inspector tool**, **Lua**, **Web Tech (HTML/CSS/JS)**, and more
