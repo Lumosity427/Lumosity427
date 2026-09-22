@@ -56,7 +56,7 @@
 
 ### ✨ Quote of the Moment
 
-> “skibidi skibid” – John G Turkey
+> “combust” – idk
 
 ---
 
